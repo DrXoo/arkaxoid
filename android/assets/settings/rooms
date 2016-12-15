@@ -1,0 +1,66 @@
+[
+{
+	class: com.mygdx.arkaxoid.RoomWrapper
+	name: room1
+	type: 1
+	boss: 0
+	limit: [102,102]
+	probs: [0.0,0.0,0.0]
+}
+{
+	class: com.mygdx.arkaxoid.RoomWrapper
+	name: room2
+	type: 1
+	boss: 0
+	limit: [26,26]
+	probs: [0.15,0.0,1.0]
+}
+{
+	class: com.mygdx.arkaxoid.RoomWrapper
+	name: room3
+	type: 1
+	boss: 0
+	limit: [56,56]
+	probs: [1.0,0.0,0.0]
+}
+{
+	class: com.mygdx.arkaxoid.RoomWrapper
+	name: room4
+	type: 1
+	boss: 0
+	limit: [51,51]
+	probs: [0.3,1.0,0.0]
+}
+{
+	class: com.mygdx.arkaxoid.RoomWrapper
+	name: room5
+	type: 2
+	boss: madblock
+	limit: [26,26]
+	probs: [0.2,0.7,0.0]
+}
+{
+	class: com.mygdx.arkaxoid.RoomWrapper
+	name: room6
+	type: 1
+	boss: 0
+	limit: [26,26]
+	probs: [0.2,0.6,0.15]
+}
+{
+	class: com.mygdx.arkaxoid.RoomWrapper
+	name: room7
+	type: 1
+	boss: 0
+	limit: [26,26]
+	probs: [0.25,0.6,0.15]
+}
+{
+	class: com.mygdx.arkaxoid.RoomWrapper
+	name: room8
+	type: 1
+	boss: 0
+	limit: [26,26]
+	probs: [0.25,0.6,0.15]
+}
+]
